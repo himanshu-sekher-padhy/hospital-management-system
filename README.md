@@ -44,3 +44,22 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+
+
+ #Description
+
+ 🏨 What is HMS (Hotel Management System)? – Description
+An HMS (Hotel Management System) is a software solution used by hotels, restaurants, lounges, and cafes to manage their operations digitally and efficiently. It automates and streamlines everything from reservations to billing, staff coordination, and customer service.
+
+💼 Key Functions of an HMS:
+Feature	Description
+🧾 Billing & Invoicing	Generates GST-compliant bills (like the one you received), including taxes, discounts, etc.
+🍽️ Order Management	Tracks customer orders (food, drinks, room service) and routes them to the kitchen or bar.
+🛏️ Room Booking (if hotel)	Manages check-ins, check-outs, room availability, and pricing.
+👨‍🍳 Kitchen Display System (KDS)	Shows real-time food orders to chefs and kitchen staff.
+👥 Staff Management	Tracks attendance, shifts, performance, and roles of employees.
+📊 Reports & Analytics	Provides sales reports, occupancy rates, customer feedback, and tax summaries.
+💬 Customer Feedback & CRM	Collects reviews, sends loyalty offers, and manages customer data.
+📱 POS Integration	Integrates with POS (Point of Sale) systems like POSist (mentioned on your bill), making transaction and order handling seamless.
