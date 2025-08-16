@@ -25,6 +25,3 @@ This project aims to reduce manual work and provide an efficient digital solutio
 - **Other Tools**: Git, GitHub, Docker (optional)  
 
 ---
-
-## 📂 Project Structure
-
