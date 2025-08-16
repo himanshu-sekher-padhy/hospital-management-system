@@ -21,7 +21,7 @@ This project aims to reduce manual work and provide an efficient digital solutio
 
 - **Frontend**: HTML, CSS, JavaScript / React  
 - **Backend**: Java /  Node.js (depending on implementation)
--  **Service Discovery**: Spring Cloud Netflix Eureka  
+- **Service Discovery**: Spring Cloud Netflix Eureka  
 - **Database**: MySQL
 - **Build Tool**: Maven 
 - **Other Tools**: Git, GitHub 
