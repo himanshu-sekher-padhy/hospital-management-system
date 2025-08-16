@@ -20,7 +20,8 @@ This project aims to reduce manual work and provide an efficient digital solutio
 ## 🛠️ Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript / React  
-- **Backend**: Java /  Node.js (depending on implementation)  
+- **Backend**: Java /  Node.js (depending on implementation)
+-  **Service Discovery**: Spring Cloud Netflix Eureka  
 - **Database**: MySQL
 - **Build Tool**: Maven 
 - **Other Tools**: Git, GitHub 
