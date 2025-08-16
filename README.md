@@ -20,8 +20,8 @@ This project aims to reduce manual work and provide an efficient digital solutio
 ## 🛠️ Tech Stack
 
 - **Frontend**: HTML, CSS, JavaScript / React  
-- **Backend**: Java / Python / Node.js (depending on implementation)  
-- **Database**: MySQL / PostgreSQL / SQLite  
-- **Other Tools**: Git, GitHub, Docker (optional)  
+- **Backend**: Java /  Node.js (depending on implementation)  
+- **Database**: MySQL  
+- **Other Tools**: Git, GitHub 
 
 ---
