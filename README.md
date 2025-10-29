@@ -25,6 +25,5 @@ This project aims to reduce manual work and provide an efficient digital solutio
 - **Database**: MySQL
 - **Build Tool**: Maven 
 - **Other Tools**: Git, GitHub 
-
 ---
 
